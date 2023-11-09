@@ -1,0 +1,18 @@
+.hdr-bttn > button{
+    display: inline-flex;
+    padding: 4px 12px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 20px;
+    background: #EBE8FF;
+    border: none;
+}
+.hdr-bttnn > button{
+    display: inline-flex;
+    padding: 4px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    border-radius: 20px;
+    background: #EBE8FF;
+}

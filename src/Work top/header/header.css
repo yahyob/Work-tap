@@ -1,0 +1,22 @@
+.header-text > h2 > a{
+    color: #1DBF73;
+    text-decoration: none;
+}
+.input-group > span > button{
+    width: 154px;
+    border-radius: 50px;
+    background-color: #FBA457;
+    border: none;
+}
+.input-group > input{
+    width: 450px;
+    border-radius: 50px;
+    height: 36px;
+}
+.hgi-bttn{
+    width: 148px;
+    height: 37px;
+    border: 1px solid #FBA457;
+    border-radius: 50px;
+    color: #FBA457;
+}

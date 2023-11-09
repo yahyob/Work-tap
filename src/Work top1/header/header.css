@@ -1,0 +1,7 @@
+.hreaf{
+    color: var(--green, #1DBF73);
+    text-decoration: none;
+}
+.container{
+    box-shadow: 0px 16px 16px 0px rgba(34, 34, 34, 0.04);
+}

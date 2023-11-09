@@ -1,0 +1,8 @@
+.Min-Dv{
+    height: 195px;
+    border-radius: 20px;
+    background: var(--medium-gray, #EBE8FF);
+    text-align: center;
+    width: 190px;
+    padding: 40px;
+}

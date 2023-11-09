@@ -1,0 +1,37 @@
+.page{
+    width: 420px;
+    height: 300px;
+    box-shadow: 0px 16px 16px 0px #2222220A;
+}
+.page-1 > img{
+    width: 44px;
+    height: 100px;
+}
+.p-text{
+    font-size: 12px;
+}
+.page > a > button{
+    width: 390px;
+    border-radius: 50px;
+    background-color: white;
+    border: 1px solid #1DBF73;
+    color: #1DBF73;
+}
+.page5{
+    width: 420px;
+    height: 300px;
+    background-color: #F2F0FE;
+    box-shadow: 0px 25px 25px 0px #2222220A;
+}
+.page5 > h5{
+    padding-top: 150px;
+    color: #1DBF73;
+}
+.page-1 > div > img{
+    width: 44px;
+    height: 100px;
+}
+.href-a > a {
+    color: #FBA457;
+    text-decoration: none;
+}

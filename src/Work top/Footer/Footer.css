@@ -1,0 +1,12 @@
+.footer-button{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50px;
+
+}
+.Footerss{
+    background: var(--light-gray, #F2F0FE);
+}

@@ -1,0 +1,6 @@
+.nikita{
+    border-radius: 20px;
+    border: 1px solid var(--light-gray, #F2F0FE);
+    background: var(--white, #F6FAFD);
+    box-shadow: 0px 16px 16px 0px rgba(0, 0, 0, 0.04);
+}

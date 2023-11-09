@@ -1,0 +1,26 @@
+.kniga{
+    border-radius: 20px;
+    border: 1px solid var(--light-gray, #F2F0FE);
+    background: var(--white, #F6FAFD);
+    box-shadow: 0px 16px 16px 0px rgba(0, 0, 0, 0.04);
+}
+.kniga > h4 > a{
+    color: var(--green, #1DBF73);
+
+    /* desktop/H3 */
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+}
+.mzzg{
+    display: inline-flex;
+    padding: 10px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 40px;
+    border: 1px solid var(--green, #1DBF73);
+    background-color: white;
+    color: #1DBF73;
+}

@@ -1,0 +1,7 @@
+.nav-item > a > button{
+    border-radius: 50px;
+    width: 113px;
+}
+.navbar{
+    position: fixed;
+}

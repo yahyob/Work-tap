@@ -1,0 +1,45 @@
+.samm {
+    background-image: url(./img/chiziq.png);
+    width: 779px;
+    height: 3px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.smm-btn1{
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.smm-btn1 > button{
+    width: 50px;
+    height: 50px;
+    background: #1DBF73;
+    border: none;
+    border-radius: 50px;
+    margin-top: -300px;
+    font-weight: bold;
+    color: white;
+}
+.smm-btn{
+    margin-left: 90px;
+    margin-top: -21px;
+}
+.smm-btn > button{
+    width: 50px;
+    height: 50px;
+    fill: var(--gray, #B0AAD0);    
+    background: #B0AAD0;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+}
+.smm-btn > h6{
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+}
+.smm-btn1 > h6{
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+}

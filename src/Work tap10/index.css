@@ -1,0 +1,36 @@
+.hdr-btn > button{
+    display: flex;
+    width: 240px;   
+    height: 60px;
+    padding: 18px 0px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background: var(--light-gray, #F2F0FE);
+    border: none;
+    color: var(--dark-gray, #656084);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.hdr-btn1 > button{
+    display: flex;
+    width: 240px;
+    height: 60px;
+    padding: 18px 77px 18px 78px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background: var(--green, #1DBF73);
+    border: none;
+    color: var(--white, #F6FAFD);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

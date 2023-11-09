@@ -1,0 +1,37 @@
+.hrefsk{
+    color: black;
+    text-decoration: none;
+}
+.hrefsk1{
+    color: var(--green, #1DBF73);
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    text-decoration: none;
+}
+.form-control{
+    border-radius: 50px;
+    height: 36px;
+    margin-left: 300px;
+} 
+.input-group > span > button{
+    width: 130px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #FBA457;
+    border: none;
+}
+.hgi-bttn{
+    width: 148px;
+    height: 37px;
+    border: 1px solid #FBA457;
+    border-radius: 50px;
+    color: #FBA457;
+}
+.maxsol1{
+    margin-left: 280px;
+}
+.maxsol{
+    margin-left: 320px;
+}
